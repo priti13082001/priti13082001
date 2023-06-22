@@ -1,13 +1,9 @@
 - <h1>👋 Hi, I’m Priti Kumari</h1>
-- 👀 I’m interested in programming and web development...
-- 🌱 I’m currently learning new skill in web development..
-- 💞️ I’m looking to collaborate on open source project..
-- 📫 How to reach me ...
-- <h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- <h3>👀 I’m interested in programming and web development...</h3>
+- <h3>🌱 I’m currently learning new skill in web development..</h3>
+- <h3>💞️ I’m looking to collaborate on open source project..</h3>
+- <h3>😊 currently I am learning to build java project related to spring boot,hibernate etc...</h3>
+  
 
 
 <!---
